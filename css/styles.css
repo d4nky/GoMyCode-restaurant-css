@@ -15,6 +15,9 @@ h3{
     color: black;
     width: 600px;
 }
+ul{
+    list-style-type: none;
+}
 h6{
     border: 1px solid;
     font-weight: bold;
